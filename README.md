@@ -1,4 +1,4 @@
-# Stockhack 2025 - Yashas Acharya Submission
+Note: While this was originally my solution for StockHack 2025, I am studying quantitative development and machine learning methods in asset management so I will keep updating this as I learn more.
 
 ## Overview
 I’m predicting the 5-day return and price of selected equities in the competition. I employed an ensemble of **CatBoost, LightGBM, and a Neural Network (NN)** to predict the values.
